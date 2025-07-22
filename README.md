@@ -11,11 +11,11 @@ I'm passionate about using <strong>AI to solve real-world problems</strong>. Wit
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working at **NTT Data**
-- 🌱 I’m learning **FastAPI** for building scalable backend services
-- 🤖 Passionate about **Retrieval-Augmented Generation (RAG)** and **Agent-based modeling**
-- 🧠 Exploring production-level **AI/ML systems**
-- 💡 Building full-stack apps using **React + FastAPI**
+- 🔭 Currently working at **NTT Data**
+- 🤖 Exploring the exciting space of **Generative AI** — including **LLMs**, **RAG**, and **agent-based models**
+- 🌱 Learning **FastAPI** to build high-performance backend systems
+- 🧠 Passionate about building intelligent, production-ready AI/ML systems
+- 💡 Developing full-stack applications using **React + FastAPI**
 
 ---
 
